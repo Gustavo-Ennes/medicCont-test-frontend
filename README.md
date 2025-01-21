@@ -18,7 +18,7 @@ Follow the steps below to set up and run the project locally.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/frontend-project.git
+   git clone https://github.com/Gustavo-Ennes/medicCont-test-frontend.git
    cd frontend-project
    ```
 
